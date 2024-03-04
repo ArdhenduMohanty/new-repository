@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    margin-top: 25px;
+    
+}
+h1{
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 3rem;
+    margin-bottom: -20px;
+    font-weight: bolder;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 2rem;
+    border: 6px solid rgb(32, 156, 218);
+    border-radius: 20px;
+}
+button{
+    font-size: 33px;
+    background-color: aquamarine;
+    width: 96px;
+    height: 55px;
+    border: 3px solid;
+    border-radius: 15px;
+    font-weight: bold;
+}
+.calculator{
+    display: inline-block;
+    background-color: rgb(255, 127, 127);
+    padding: 20px;
+    border-radius: 20px;
+    border: 3px solid black;
+    
+}
